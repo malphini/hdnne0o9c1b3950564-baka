@@ -14,3 +14,8 @@
 body{
     background-color: rgb(232, 255, 247);
 }
+.text{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}
