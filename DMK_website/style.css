@@ -1,0 +1,16 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.images{
+    border-style: solid;
+    border-color: aquamarine;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+body{
+    background-color: rgb(232, 255, 247);
+}
