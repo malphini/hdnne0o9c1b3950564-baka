@@ -1,8 +1,13 @@
+
+
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: auto;
+    width: 30%;
 }
+
 .images{
     border-style: solid;
     border-color: aquamarine;
@@ -10,12 +15,21 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    height: auto;
+    width: 60%;
 }
+
 body{
     background-color: rgb(232, 255, 247);
 }
+
 .text{
     text-align: center;
     font-family: sans-serif;
     color: black;
 }
+
+a{
+    text-decoration: none;
+}
+
